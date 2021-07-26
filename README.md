@@ -1,4 +1,6 @@
 # personal_diary_app
+![Personal_Diary_app Image](https://user-images.githubusercontent.com/73067444/126978308-21027c9a-33df-4fd0-95e6-5a259b8478fa.png)
+
 
 A new Flutter project.
 
